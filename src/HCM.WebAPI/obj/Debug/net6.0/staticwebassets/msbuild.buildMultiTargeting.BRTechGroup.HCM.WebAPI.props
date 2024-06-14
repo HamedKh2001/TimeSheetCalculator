@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BRTechGroup.HCM.WebAPI.props" />
+</Project>

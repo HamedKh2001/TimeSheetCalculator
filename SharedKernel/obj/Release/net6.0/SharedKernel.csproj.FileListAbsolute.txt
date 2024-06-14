@@ -1,0 +1,15 @@
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\bin\Release\net6.0\SharedKernel.deps.json
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\bin\Release\net6.0\SharedKernel.dll
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\bin\Release\net6.0\SharedKernel.pdb
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\bin\Release\net6.0\EventBus.Messages.dll
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\bin\Release\net6.0\EventBus.Messages.pdb
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.csproj.AssemblyReference.cache
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.AssemblyInfoInputs.cache
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.AssemblyInfo.cs
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.csproj.CoreCompileInputs.cache
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.csproj.CopyComplete
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.dll
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\refint\SharedKernel.dll
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\SharedKernel.pdb
+C:\.Net\Brtech\BRTechGroup-Backend\BRTechGroup\src\BuildingBlocks\SharedKernel\obj\Release\net6.0\ref\SharedKernel.dll

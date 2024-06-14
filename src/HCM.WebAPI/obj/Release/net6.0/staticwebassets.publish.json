@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "vzKH5A0/M8tWPcxpdcm09evTD8vCTSEV3N2zz6xZ35M=",
+  "Source": "BRTechGroup.HCM.WebAPI",
+  "BasePath": "_content/BRTechGroup.HCM.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

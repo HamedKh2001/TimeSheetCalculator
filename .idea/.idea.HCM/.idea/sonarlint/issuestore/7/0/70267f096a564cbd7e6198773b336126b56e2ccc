@@ -1,0 +1,9 @@
+
+œcsharpsquid:S2479†"LReplace the control character at position 3 by its escape sequence '\u200C'.(–Á¶§úÿÿÿÿ8â‹­¹2J$8ef59d3c-467f-4a06-8880-f6f872f4c1f8
+œcsharpsquid:S2479†"LReplace the control character at position 4 by its escape sequence '\u200C'.(–Á¶§úÿÿÿÿ8â‹­¹2J$0068bf37-b243-4c8a-a156-ab1b6b1d1572
+csharpsquid:S107u"@Method has 8 parameters, which is greater than the 7 authorized.(”¨ÒÚıÿÿÿÿ8â‹­¹2J$3c96a4aa-c6ca-4af1-aeaa-6597c600d87e
+ csharpsquid:S6608G"QIndexing at 0 should be used instead of the "Enumerable" extension method "First"(šş—›ÿÿÿÿÿ8â‹­¹2J$4a02b36a-d93d-4608-b184-3de74889a1c3
+šcsharpsquid:S6608L"QIndexing at 0 should be used instead of the "Enumerable" extension method "First"(ğãÁd8â‹­¹2J$e56c688a-9c41-42b0-8dd0-c4c2f8bb6605
+ csharpsquid:S6608M"VIndexing at Count-1 should be used instead of the "Enumerable" extension method "Last"(İÀÉÅ8â‹­¹2J$533f292e-276b-4061-a1e6-1350d62596d3
+ csharpsquid:S6608Q"QIndexing at 0 should be used instead of the "Enumerable" extension method "First"(”íñìıÿÿÿÿ8â‹­¹2J$26d5416f-da12-4f56-bb9e-20c5986560ee
+}csharpsquid:S1481>".Remove the unused local variable 'employeeId'.(êµÑÕûÿÿÿÿ8ÈÃè¹2J$225df274-aec4-4b84-bb5c-dd1e4ec56b68

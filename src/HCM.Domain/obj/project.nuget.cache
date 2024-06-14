@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hhMZ2b97DawzkFwC4Ib/1mdQwEN/1p6o+abHITMzJHAL8JNxDyPanFUY29OVfn4RRdaolFmNH5L1K3wAycZgsA==",
+  "success": true,
+  "projectFilePath": "C:\\.Net\\HCM\\src\\HCM.Domain\\HCM.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hmd13\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\hmd13\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\hmd13\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

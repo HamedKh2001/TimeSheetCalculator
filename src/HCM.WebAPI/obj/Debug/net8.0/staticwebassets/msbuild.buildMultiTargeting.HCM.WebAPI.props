@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HCM.WebAPI.props" />
+</Project>

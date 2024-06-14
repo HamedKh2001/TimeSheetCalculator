@@ -1,0 +1,17 @@
+C:\.Net\HCM\src\HCM.Application\bin\Debug\net8.0\HCM.Application.deps.json
+C:\.Net\HCM\src\HCM.Application\bin\Debug\net8.0\HCM.Application.dll
+C:\.Net\HCM\src\HCM.Application\bin\Debug\net8.0\HCM.Application.pdb
+C:\.Net\HCM\src\HCM.Application\bin\Debug\net8.0\HCM.Domain.dll
+C:\.Net\HCM\src\HCM.Application\bin\Debug\net8.0\SharedKernel.dll
+C:\.Net\HCM\src\HCM.Application\bin\Debug\net8.0\SharedKernel.pdb
+C:\.Net\HCM\src\HCM.Application\bin\Debug\net8.0\HCM.Domain.pdb
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.csproj.AssemblyReference.cache
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.AssemblyInfoInputs.cache
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.AssemblyInfo.cs
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.csproj.CoreCompileInputs.cache
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.csproj.CopyComplete
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.dll
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\refint\HCM.Application.dll
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\HCM.Application.pdb
+C:\.Net\HCM\src\HCM.Application\obj\Debug\net8.0\ref\HCM.Application.dll

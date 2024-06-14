@@ -1,0 +1,6 @@
+
+csharpsquid:S2139"XEither log this exception and handle it, or rethrow it with some contextual information.(´‚¤–øÿÿÿÿ8…Œæ¸2
+Pcsharpsquid:S6672"-Update this logger to use its enclosing type.(ˆ³úT8…Œæ¸2
+ecsharpsquid:S2629"<Don't use string interpolation in logging message templates.(¢ÆÍ²øÿÿÿÿ8…Œæ¸2
+Bcsharpsquid:S125"Remove this commented out code.(ªìÁÄ8…Œæ¸2
+Bcsharpsquid:S125"Remove this commented out code.(ãØÜ8…Œæ¸2

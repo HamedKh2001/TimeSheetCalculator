@@ -1,0 +1,12 @@
+C:\.Net\HCM\src\HCM.Domain\bin\Debug\net8.0\HCM.Domain.deps.json
+C:\.Net\HCM\src\HCM.Domain\bin\Debug\net8.0\HCM.Domain.dll
+C:\.Net\HCM\src\HCM.Domain\bin\Debug\net8.0\HCM.Domain.pdb
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\HCM.Domain.csproj.AssemblyReference.cache
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\HCM.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\HCM.Domain.AssemblyInfoInputs.cache
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\HCM.Domain.AssemblyInfo.cs
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\HCM.Domain.csproj.CoreCompileInputs.cache
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\HCM.Domain.dll
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\refint\HCM.Domain.dll
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\HCM.Domain.pdb
+C:\.Net\HCM\src\HCM.Domain\obj\Debug\net8.0\ref\HCM.Domain.dll
